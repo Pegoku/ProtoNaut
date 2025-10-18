@@ -10,3 +10,13 @@ This is my journal of the design and building process of **ProtoNaut**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/690).
 
 
+## 10/18/2025 - Start the planning of the 3d printer  
+
+This printer is the first one I've ever designed.
+I would like this printer to be cantilever, small, use klipper, and be relatively cheap (-200$ if possible).
+I've been thinking of going with 2020 aluminum extrusions, Nema 17 motors, Voron V0 bed, and linear rails 12 and 9 mm.
+
+Sketch I did:
+![PXL_20251018_211540072.MP~2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--d30560322558f64226a8db23edf334a5f07304d7/PXL_20251018_211540072.MP~2.jpg)
+  
+
