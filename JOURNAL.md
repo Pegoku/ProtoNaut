@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **ProtoNaut**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/690).
-
-
 ## 10/18/2025 - Start the planning of the 3d printer  
 
 This printer is the first one I've ever designed.
@@ -18,5 +14,14 @@ I've been thinking of going with 2020 aluminum extrusions, Nema 17 motors, Voron
 
 Sketch I did:
 ![PXL_20251018_211540072.MP~2.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzEwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--d30560322558f64226a8db23edf334a5f07304d7/PXL_20251018_211540072.MP~2.jpg)
+  
+
+## 10/20/2025 - Change of plans  
+
+I changed plans, and I think I will no longer go with a voron V0 bed. Mainly due to the hard mounting options, and also, the hard leveling. This is why I will go with a 150x150mm bed.
+After quite a bit of research, I've found many parts which seem to fit the printer.
+This is the current BOM:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2NywicHVyIjoiYmxvYl9pZCJ9fQ==--36de7f66e9896b1704852fd25ebb7518d974cc0a/image.png)
   
 
