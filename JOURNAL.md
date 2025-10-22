@@ -25,3 +25,15 @@ This is the current BOM:
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc2NywicHVyIjoiYmxvYl9pZCJ9fQ==--36de7f66e9896b1704852fd25ebb7518d974cc0a/image.png)
   
 
+## 10/22/2025 - Learn CFDOF with freecad  
+
+Today I wanted to learn what was CFD and how to use, as I think this is going to be a necessary tool for my toolhead design. I wanted to use it with FreeCAD (the CAD software I use).
+After quite a LOT of trial and error, I was able to get a basic simulation working.
+
+I still have a lot to learn, but this is a good start
+
+![screenshot_20251022_202745.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--be7df1dc38db5e9317bf8ee9c2f9510bc63de115/screenshot_20251022_202745.png)
+
+![screenshot_20251022_202750.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--abd8a5430c32b3448366bf23a97624b5bad72280/screenshot_20251022_202750.png)
+  
+
