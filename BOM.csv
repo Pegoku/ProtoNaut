@@ -1,6 +1,7 @@
-Item,Qtty,Price/unit,Total item,Source,Extra,Total
+Item,Qtty,Price/unit (?),Total item,Source,Extra,Total
 Orange Pi Zero 2W,1,25.39,,https://es.aliexpress.com/item/1005006188766949.html,"Bundle 3, 1GB RAM",
-BIQU H2 V2S Extruder,1,55.65,,https://es.aliexpress.com/item/1005006297031148.html,with Fan,
+,,,,,,
+,,,,,,
 BIGTREETECH SKR PICO,1,22,,https://es.aliexpress.com/item/1005009051136182.html,,
 Bed Spring Leveling kit,1,5.09,,https://es.aliexpress.com/item/1005003097384079.html,Black(M3) 1Set,
 Bed support Y axis,1,10.39,,https://es.aliexpress.com/item/1005005526138056.html,,
@@ -13,7 +14,7 @@ Nema 17 stepper,3,,,,,
 2020 extrusion,,,,,,
 2020 extrusion,,,,,,
 2020 extrusion,,,,,,
-MGN12H extrusion,,,,,,
+MGN12c extrusion,1,10.21,,https://es.aliexpress.com/item/1005009577277063.html,200m,
 MGN9C extrusion,,,,,,
 Linear bearing,,,,,,
 Pulley ,,,,,,
