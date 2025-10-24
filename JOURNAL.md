@@ -37,3 +37,11 @@ I still have a lot to learn, but this is a good start
 ![screenshot_20251022_202750.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUxNywicHVyIjoiYmxvYl9pZCJ9fQ==--abd8a5430c32b3448366bf23a97624b5bad72280/screenshot_20251022_202750.png)
   
 
+## 10/24/2025 - Do HotBed and create models  
+
+I have been creating and importing models for my 3Dp. I've imported the extruder, hotend and SKR PICO.
+I've also designed the bed and Y axis. I have yet to decide the dimensions of the Y axis, as well as the X and Z. I'll probably just design them, and then, later, resize them to the correct dimensions.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f3bafdefa09196e1014c5b637f140077afbdf2b/image.png)
+  
+
