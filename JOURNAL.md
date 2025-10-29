@@ -45,7 +45,7 @@ I've also designed the bed and Y axis. I have yet to decide the dimensions of th
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f3bafdefa09196e1014c5b637f140077afbdf2b/image.png)
   
 
-## 10/29/2025 - Finish bed motor mount, belt tensioner and start toolhead  
+## 10/29/2025 6 PM - Finish bed motor mount, belt tensioner and start toolhead  
 
 I just finished my completely overengineered motor mount and belt system.
 It will use a NEMA 17 stepper motor (same motor will be used for all the other axis), and 2 pulleys to guide the belt through the correct paths.
@@ -54,5 +54,13 @@ I know there are WAY easier ways to route that, but I went too deep into the "co
 I will now be designing the toolhead. Hope it works!
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--58f0edad965beac1c6de5ef1c96a6ed50e41a54d/image.png)
+  
+
+## 10/29/2025 7 PM - Finish toolhead  
+
+I just finished the toolhead for my printer. It will use a 3010 fan to cool the heatsink, and 2x 4010 blower fans to cool the nozzle.
+It will be powered by the [TZ E3 2.0 Hotend](https://es.aliexpress.com/item/1005008453023317.html), and [HGX Lite extruder](https://es.aliexpress.com/item/1005006950563760.html).
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--69e40d213ca088c6a00d9a8251ecf585c65dd862/image.png)
   
 
