@@ -64,3 +64,14 @@ It will be powered by the [TZ E3 2.0 Hotend](https://es.aliexpress.com/item/1005
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--69e40d213ca088c6a00d9a8251ecf585c65dd862/image.png)
   
 
+## 11/1/2025 - Start Z axis  
+
+Now I've been working on the Z axis of the printer. I will be using a T8 lead screw for the axis, and will secure it to the T8 nut. I will be adding a linear rail, probably an MGN12C, and then continue with the X axis. 
+I'm getting so close! 
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc2f60dd6604a060fef3aabff1b76925515a567a/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--bacf595075289e3a381c9da6f552a952854c58d4/image.png)
+  
+
