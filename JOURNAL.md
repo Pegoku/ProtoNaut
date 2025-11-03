@@ -75,3 +75,14 @@ I'm getting so close!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--bacf595075289e3a381c9da6f552a952854c58d4/image.png)
   
 
+## 11/3/2025 - Finish base printer  
+
+I finished the base printer, and that means I'm near the finish line!
+All the structure, motors, etc. Are done. I only need to add a few parts, e.g. controller, SBC, eddy, PSUs...
+
+Current state of the printer: 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--358e8e09498e6170a5d1dac6046b800f2935d7ad/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11024120140e12c8e33bf979e71cc21b4297531d/image.png)
+  
+
