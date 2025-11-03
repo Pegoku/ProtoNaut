@@ -75,7 +75,7 @@ I'm getting so close!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--bacf595075289e3a381c9da6f552a952854c58d4/image.png)
   
 
-## 11/3/2025 - Finish base printer  
+## 11/3/2025 10 AM - Finish base printer  
 
 I finished the base printer, and that means I'm near the finish line!
 All the structure, motors, etc. Are done. I only need to add a few parts, e.g. controller, SBC, eddy, PSUs...
@@ -84,5 +84,16 @@ Current state of the printer:
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--358e8e09498e6170a5d1dac6046b800f2935d7ad/image.png)
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11024120140e12c8e33bf979e71cc21b4297531d/image.png)
+  
+
+## 11/3/2025 12 PM - Finish the printer!  
+
+I just finished the printer!
+It was a long journey, but I finally did it. I can't wait to build it IRL.
+I'll now do the final checks and finish the BOM. After that, I'll start ordering the pieces!
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAzMywicHVyIjoiYmxvYl9pZCJ9fQ==--8ea629c0d0731d7059f58f30d9e1e5e1e7a20ad3/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a271315668fb9c81e82e727649d725f1a53ace3/image.png)
   
 
