@@ -97,3 +97,12 @@ I'll now do the final checks and finish the BOM. After that, I'll start ordering
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a271315668fb9c81e82e727649d725f1a53ace3/image.png)
   
 
+## 11/3/2025 7 PM - Finish BOM  
+
+I redid and finished the BOM. I *hope* I got everything right. I probably could have designed it better so it used fewer components (or cheaper ones), but I didn't want to compromise the build. That's why I used linear rails, good motors, etc.
+
+Made a [Google Sheets](https://docs.google.com/spreadsheets/d/10S4NtRr_S8fiZ1eurKxR3v34cEba0Mtye6buwyMkIno/edit?usp=sharing) with the [BOM](https://docs.google.com/spreadsheets/d/10S4NtRr_S8fiZ1eurKxR3v34cEba0Mtye6buwyMkIno/edit?usp=sharing) 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34513650c45b56b73e174ae01614de4fac48f23b/image.png)
+  
+
