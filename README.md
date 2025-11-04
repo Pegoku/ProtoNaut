@@ -6,13 +6,14 @@ The project utilizes Klipper for motion control, running on an Orange Pi Zero 3 
 
 ## Images
 
-![ProtoNaut CAD](placeholder-assembly-image.png)
+![ProtoNaut CAD](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a271315668fb9c81e82e727649d725f1a53ace3/image.png)
 
 
 <details>
 <summary>Build — click to expand</summary>
 
-![ProtoNaut CAD Model](placeholder-cad-model.png)
+TBD
+<!-- ![ProtoNaut CAD Model](placeholder-cad-model.png) -->
 
 </details>
 
