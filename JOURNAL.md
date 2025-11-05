@@ -120,3 +120,15 @@ I added the [Assembly.step](https://github.com/Pegoku/ProtoNaut/blob/main/CAD/As
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e45b2df463ebf84e02ffd37091acaec0b356087/image.png)
   
 
+## 11/5/2025 - Add colors to the design, and use 2040 extrusion for Z axis  
+
+Thanks to the help of the reviewers, I was able to fix one of my design errors, using a single 2020 extrusion for the Z axis. So to fix it, I used a 2040 instead. 
+Sadly, I already bought the components and can't cancel them.
+While at it, I also added colors to the printer. I chose red and black for the main parts.
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2c0c1cf6d00a3af90c56e2d3e4fa6bbc3d77288f/image.png)
+
+
+  
+
