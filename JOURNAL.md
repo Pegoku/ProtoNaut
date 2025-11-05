@@ -106,10 +106,17 @@ Made a [Google Sheets](https://docs.google.com/spreadsheets/d/10S4NtRr_S8fiZ1eur
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--34513650c45b56b73e174ae01614de4fac48f23b/image.png)
   
 
-## 11/4/2025 - Export printed files  
+## 11/4/2025 9 AM - Export printed files  
 
 I exported all the printed parts from the FreeCAD file. They should be all the [files](https://github.com/Pegoku/ProtoNaut/tree/main/CAD/Printed%20Parts).
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--66810434b1647b4c02a4ea2bb24431faf263a8dd/image.png)
+  
+
+## 11/4/2025 8 PM - Add Assembly.step  
+
+I added the [Assembly.step](https://github.com/Pegoku/ProtoNaut/blob/main/CAD/Assembly.step) file. I had to use Git LFS because the file was 102MB (100MB max) :sob:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e45b2df463ebf84e02ffd37091acaec0b356087/image.png)
   
 
