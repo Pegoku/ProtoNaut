@@ -31,7 +31,7 @@ TBD
 
 | Item                    | Qtty | 4.19€  | Source                                                | Extra                      | Category                  | Item Total | Final Total | Final Total ($) |
 | ----------------------- | ---- | ------ | ----------------------------------------------------- | -------------------------- | ------------------------- | ---------- | ----------- | --------------- |
-| Bed Spring Leveling kit | 1    | 5.19€  | https://es.aliexpress.com/item/1005003097384079.html  | Black(M3) 1Set             | Bed                       | 5.19€      | 344.04€     | $396.46         |
+| Bed Spring Leveling kit | 1    | 5.19€  | https://es.aliexpress.com/item/1005003097384079.html  | Black(M3) 1Set             | Bed                       | 5.19€      | 346.64€     | $398.13         |
 | Bed support Y axis      | 1    | 10.49€ | https://es.aliexpress.com/item/1005005526138056.html  |                            | Bed                       | 10.49€     |             |                 |
 | 12V 80W heatbed 150x150 | 1    | 8.59€  | https://es.aliexpress.com/item/1005001417127602.html  |                            | Bed                       | 8.59€      |             |                 |
 | Magnetic Sticker        | 1    | 5.09€  | https://es.aliexpress.com/item/1005007297499038.html  |                            | Bed                       | 5.09€      |             |                 |
@@ -69,7 +69,8 @@ TBD
 | 2020 extrusion          | 1    | 2.65€  | https://es.aliexpress.com/item/1005003299342998.html  | 130mm                      | Structure                 | 2.65€      |             |                 |
 | 2020 bracket corner     | 1    | 6.19€  | https://es.aliexpress.com/item/1005005748992965.html  |                            | Structure                 | 6.19€      |             |                 |
 | MGN9C rail              | 1    | 9.79€  | https://es.aliexpress.com/item/1005009577277063.html  | 200 mm                     | X axis                    | 9.79€      |             |                 |
-| 2020 extrusion          | 2    | 4.09€  | https://es.aliexpress.com/item/1005003299342998.html  | 250 mm                     | X axis, Y axis, Structure | 8.18€      |             |                 |
+| 2020 extrusion          | 1    | 4.09€  | https://es.aliexpress.com/item/1005003299342998.html  | 250 mm                     | X axis, Y axis, Structure | 4.09€      |             |                 |
+| 2020 extrusion          | 1    | 6.69€  | https://es.aliexpress.com/item/1005009577277063.html  | 250 mm                     | X axis, Y axis, Structure | 6.69€      |             |                 |
 | MGN12c rail             | 2    | 10.69€ | https://es.aliexpress.com/item/1005009577277063.html  | 200 mm                     | Y axis, Z axis            | 21.38€     |             |                 |
 | 5x8 coupler             | 1    | 3.59€  | https://es.aliexpress.com/item/1005006305848755.html  | 5x8                        | Z axis                    | 3.59€      |             |                 |
 | T8 lead screw           | 1    | 5.29€  | https://es.aliexpress.com/item/1005003312523975.html  | 250 mm, Pitch 2mm Lead 8mm | Z axis, Linear            | 5.29€      |             |                 |
