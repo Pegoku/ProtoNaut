@@ -6,14 +6,12 @@ The project utilizes Klipper for motion control, running on an Orange Pi Zero 3 
 
 ## Images
 
-![ProtoNaut CAD](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2c0c1cf6d00a3af90c56e2d3e4fa6bbc3d77288f/image.png)
-
+![BUILD](https://blueprint.hackclub.com/user-attachments/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE3MjYyLCJwdXIiOiJibG9iX2lkIn19--ab8d2356c272377f345cd46e418c5ab588bc8259/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOlsyMDAwLDIwMDBdLCJjb252ZXJ0Ijoid2VicCIsInNhdmVyIjp7InF1YWxpdHkiOjgwLCJzdHJpcCI6dHJ1ZX19LCJwdXIiOiJ2YXJpYXRpb24ifX0=--0f85faa91c373105a0f317054e965c1f47e93a37/image.png)
 
 <details>
-<summary>Build — click to expand</summary>
+<summary>CAD - click to expand</summary>
 
-TBD
-<!-- ![ProtoNaut CAD Model](placeholder-cad-model.png) -->
+![ProtoNaut CAD](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODY3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--2c0c1cf6d00a3af90c56e2d3e4fa6bbc3d77288f/image.png)
 
 </details>
 
