@@ -86,6 +86,13 @@ The project utilizes Klipper for motion control, running on an Orange Pi Zero 3 
 - **Host Controller**: Orange Pi Zero 3 (1GB RAM)
 - **Firmware**: Klipper with Mainsail/Fluidd interface
 
+
+## Wiring Diagram
+
+![wiring](media/ProtoNaut.png)
+
+
+
 ## License
 
 This work is licensed under a
